@@ -1,6 +1,6 @@
 baseURL: 'https://wusong5.github.io/'
 languageCode: 'zh-cn'
-title: '吴sirAI探索'
+title: '吴sir AI探索'
 theme: 'hugo-theme-stack'
 
 # 菜单配置
